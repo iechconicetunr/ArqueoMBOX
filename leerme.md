@@ -1,6 +1,6 @@
 # ArqueoMBOX - Extractor y Sanitizador para Archivos Históricos
 
-*[Read this documentation in English](README.md)*
+*[Read this documentation in English](readme.md)*
 
 Este repositorio contiene **ArqueoMBOX**, una herramienta desarrollada en Python para la extracción robusta, limpieza y fragmentación atómica de correos electrónicos históricos almacenados en formatos `.mbox` y `.mbx`. 
 
