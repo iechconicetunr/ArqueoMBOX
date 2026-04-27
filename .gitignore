@@ -1,0 +1,11 @@
+# Entornos virtuales de Python
+levrero_env/
+__pycache__/
+
+# Carpetas de datos generados y archivos crudos
+corpus_limpio/
+*.mbox
+*.mbx
+
+# Archivos temporales del sistema
+.DS_Store
